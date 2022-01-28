@@ -6,6 +6,8 @@ hr_dataset.csv
 HR-Employee-Attrition.csv
 loan_status.csv
 ramen-ratings.csv
+trained_attrition.h5
+*.hdf5
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
